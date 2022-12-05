@@ -8,7 +8,7 @@ About me:
 
 You can find me here:
 
-- 👉 Discord: __Adrian__#1667
+- 👉 Discord: "__Adrian__#1667"
 - 👉 Steam: __Adrian__
 - 👉 Workmail: adrian.randeberg@gmail.com
 - 👉 Twitch: twitch.tv/adrian7881
