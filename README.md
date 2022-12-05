@@ -1,6 +1,6 @@
 About me:
 
-- 👋 Hi, I am `__Adrian__`.
+- 👋 Hi, I am `__Adrian__`
 - 👀 I am interested in gaming, programing and learning new things.
 - 💻 Currently, I work as a developer on a Norwegian GTAV FiveM server called TigerstadenRP.
 - 📫 You can reach me through discord and email
