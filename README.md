@@ -1,6 +1,6 @@
 About me:
 
-- 👋 Hi, I am @__Adrian__.
+- 👋 Hi, I am `__Adrian__`.
 - 👀 I am interested in gaming, programing and learning new things.
 - 💻 Currently, I work as a developer on a Norwegian GTAV FiveM server called TigerstadenRP.
 - 📫 You can reach me through discord and email
@@ -8,10 +8,10 @@ About me:
 
 You can find me here:
 
-- 👉 Discord: "__Adrian__#1667"
-- 👉 Steam: __Adrian__
-- 👉 Workmail: adrian.randeberg@gmail.com
-- 👉 Twitch: twitch.tv/adrian7881
+- 👉 Discord: `__Adrian__#1667`
+- 👉 Steam: `__Adrian__`
+- 👉 Workmail: `adrian.randeberg@gmail.com`
+- 👉 Twitch: `twitch.tv/adrian7881`
 
 
 Computer Specs:
