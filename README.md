@@ -1,16 +1,17 @@
 About me:
 
-- 👋 Hi, I am `__Adrian__`
-- 👀 I am interested in gaming, programing and learning new things.
-- 💻 In my free time I work as a developer for one of Norways biggest game servers for the game GTAV called TigerstadenRP.
-- 📫 You can reach me through discord and email
+- 👋 Hi, My name is `Adrian`
+- 👀 I am interested in programing, gaming and learning new things.
+- 💻 I work fulltime as a software developer for [Omega365](https://omega365.com/).
+- 🌐 In my free time run and develop one of Norways biggest modded game servers for GTAV called [TigerstadenRP](https://www.tigerstadenrp.no/).
+- 📫 You can reach me through my email and discord.
 
 
 You can find me here:
 
-- 👉 Discord: `__Adrian__#1667`
-- 👉 Steam: `__Adrian__`
 - 👉 Workmail: `adrian.randeberg@gmail.com`
+- 👉 Discord: `__Adrian__#0001`
+- 👉 Steam: `__Adrian__`
 - 👉 Twitch: `twitch.tv/adrian7881`
 
 
