@@ -2,7 +2,7 @@ About me:
 
 - 👋 Hi, My name is `Adrian`
 - 👀 I am interested in programing, gaming and learning new things.
-- 💻 I work fulltime as a software developer for [Omega365](https://omega365.com/).
+- 💻 I work fulltime as a software developer.
 - 🌐 In my free time run and develop one of Norways biggest modded game servers for GTAV called [TigerstadenRP](https://www.tigerstadenrp.no/).
 - 📫 You can reach me through my email and discord.
 
